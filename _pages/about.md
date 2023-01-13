@@ -2,11 +2,12 @@
 layout: about
 title: about
 permalink: /
-description: ETS Montreal. Mila Quebec. NIT Trichy.
+description: Mila Quebec. NIT Trichy.
 
 profile:
   align: right
   image: prof_pic.png
+  image_circular: false
   # address: >
   #   <p>555 your office number</p>
   #   <p>123 your address street</p>
