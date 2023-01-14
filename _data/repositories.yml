@@ -1,12 +1,8 @@
 github_users:
-  - torvalds
-  - alshedivat
+  - shivakanthsujit
 
 github_repos:
-  - alshedivat/al-folio
-  - twbs/bootstrap
-  - jekyll/jekyll
-  - jquery/jquery
-  - FortAwesome/Font-Awesome
-  - jpswalsh/academicons
-  - mathjax/MathJax
+  - arnavkj1995/VSG
+  - shivakanthsujit/reducible-loss
+  - shivakanthsujit/seq_eval
+  - shivakanthsujit/FMMRNet
