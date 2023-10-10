@@ -22,6 +22,10 @@ Hello to my small corner of the internet!
 
 **Update: Looking for full time research engineer roles starting Fall 2023!**
 
-I'm a masters student at [Mila Quebec](https://mila.quebec) supervised by [Prof. Samira Ebrahimi Kahou](https://saebrahimi.github.io/) exploring continual reinforcement learning and computer vision for real world applications. During my masters I have had the good fortune of collaborating with researchers from DeepMind and Google Brain on projects studying sample efficiency in deep RL, from an algorithmic and evaluation perspective. I completed my undergrad in Intrumentation and Control Engineering from [NIT Trichy](https://nitt.edu). Feel free to reach out to talk about reinforcement learning or control theory.
+I'm a masters student at [Mila Quebec](https://mila.quebec) supervised by [Prof. Samira Ebrahimi Kahou](https://saebrahimi.github.io/) exploring continual reinforcement learning and computer vision for real world applications. Previously I was an research intern with [John Langford](https://hunch.net/~jl/) at Microsoft Research NYC, working on minimal agent controllable representations in reinforcement learning. 
+
+During my masters I have had the good fortune of collaborating with researchers from Microsoft Research and Google DeepMind on projects studying sample efficiency in deep RL, from an algorithmic and evaluation perspective. 
+
+I completed my undergrad in Intrumentation and Control Engineering from [NIT Trichy](https://nitt.edu). Feel free to reach out to talk about reinforcement learning or control theory.
 
 You can find my CV [here](https://bit.ly/3HuQVZF).
