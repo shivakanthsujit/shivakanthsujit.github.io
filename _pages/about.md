@@ -2,7 +2,7 @@
 layout: about
 title: about
 permalink: /
-subtitle: Mila Quebec. NIT Trichy.
+subtitle: Deep RL Researcher at ARAYA. Mila alum.
 
 profile:
   align: right
@@ -20,12 +20,12 @@ social: true  # includes social icons at the bottom of the page
 
 Hello to my small corner of the internet!
 
-**Update: Looking for full time research engineer roles starting Fall 2023!**
+**Update: Looking for full-time research engineer and research scientist roles in 2026!**
 
-I'm a masters student at [Mila Quebec](https://mila.quebec) supervised by [Prof. Samira Ebrahimi Kahou](https://saebrahimi.github.io/) exploring continual reinforcement learning and computer vision for real world applications. Previously I was an research intern with [John Langford](https://hunch.net/~jl/) at Microsoft Research NYC, working on minimal agent controllable representations in reinforcement learning. 
+I'm a Deep RL Researcher at [ARAYA](https://www.araya.org/en/) in Tokyo, where I build post-training and deployment systems for vision-language-action models in assistive robotics. My work sits between embodied AI research and systems engineering: I develop reinforcement-learning methods, then profile and optimize the training and inference stack so they can run on real robots.
 
-During my masters I have had the good fortune of collaborating with researchers from Microsoft Research and Google DeepMind on projects studying sample efficiency in deep RL, from an algorithmic and evaluation perspective. 
+I completed a Research MSc in Computer Science at [Mila](https://mila.quebec), supervised by [Prof. Samira Ebrahimi Kahou](https://saebrahimi.github.io/), with a thesis on sample-efficient reinforcement learning for real-world systems. I was also a research intern with [John Langford](https://www.microsoft.com/en-us/research/people/jcl/) at Microsoft Research NYC, working on reachability-aware representations for efficient planning.
 
-I completed my undergrad in Intrumentation and Control Engineering from [NIT Trichy](https://nitt.edu). Feel free to reach out to talk about reinforcement learning or control theory.
+My research spans offline and online RL, embodied foundation models, representation learning, and human-robot interaction. I completed my undergraduate degree in Instrumentation and Control Engineering at [NIT Trichy](https://nitt.edu). Feel free to reach out if you'd like to talk about reinforcement learning, robotics, or making research systems fast enough to be useful.
 
-You can find my CV [here](https://bit.ly/3HuQVZF).
+You can read my [CV](/cv/) online or [download the PDF](/assets/pdf/cv.pdf).

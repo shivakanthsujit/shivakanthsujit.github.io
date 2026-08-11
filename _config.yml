@@ -8,19 +8,19 @@ middle_name:
 last_name: Sujit
 email: shivakanth.sujit@gmail.com
 description: > # the ">" symbol means to ignore newlines until "footer_text:"
-  Finding meaning in data.
+  Deep RL researcher working on embodied AI, VLA post-training, and high-performance robotics systems.
 footer_text: >
   Powered by <a href="https://jekyllrb.com/" target="_blank">Jekyll</a> with <a href="https://github.com/alshedivat/al-folio">al-folio</a> theme.
   Hosted by <a href="https://pages.github.com/" target="_blank">GitHub Pages</a>.
   Photos from <a href="https://unsplash.com" target="_blank">Unsplash</a>.
-keywords: jekyll, jekyll-theme, academic-website, portfolio-website  # add your own keywords or leave empty
+keywords: reinforcement learning, embodied AI, robotics, VLA, VLM, research engineer
 
 lang: en # the language of your site (for example: en, fr, cn, ru, etc.)
 icon: ☁️  # the emoji used as the favicon (alternatively, provide image name in /assets/img/)
 
 url: https://shivakanthsujit.github.io # the base hostname & protocol for your site
 baseurl:  # the subpath of your site, e.g. /blog/
-last_updated: false # set to true if you want to display last updated in the footer
+last_updated: true # set to true if you want to display last updated in the footer
 impressum_path:  # set to path to include impressum link in the footer, use the same path as permalink in a page, helps to conform with EU GDPR
 
 # -----------------------------------------------------------------------------
@@ -73,7 +73,7 @@ twitter_username: ShivaSujit # your Twitter handle
 mastodon_username: # your mastodon instance+username in the format instance.tld/@username
 linkedin_username: shivakanthsujit # your LinkedIn user name
 telegram_username: # your Telegram user name
-scholar_userid: # your Google Scholar ID
+scholar_userid: oXpK8V8AAAAJ # your Google Scholar ID
 semanticscholar_id: # your Semantic Scholar ID
 whatsapp_number: # your WhatsApp number (full phone number in international format. Omit any zeroes, brackets, or dashes when adding the phone number in international format.)
 orcid_id: # your ORCID ID
@@ -146,9 +146,7 @@ disqus_shortname: al-folio # put your disqus shortname
 # External sources.
 # If you have blog posts published on medium.com or other exteranl sources,
 # you can display them in your blog by adding a link to the RSS feed.
-external_sources:
-  - name: medium.com
-    rss_url: https://medium.com/@al-folio/feed
+external_sources: []
 
 # -----------------------------------------------------------------------------
 # Collections
@@ -191,6 +189,7 @@ exclude:
   - Gemfile
   - Gemfile.lock
   - vendor
+  - _posts/2020-09-28-twitter.md
 keep_files:
   - CNAME
   - .nojekyll
@@ -208,7 +207,6 @@ plugins:
   - jekyll/scholar
   - jekyll-sitemap
   - jekyll-link-attributes
-  - jekyll-twitter-plugin
   - jemoji
 
 # Sitemap settings
@@ -302,7 +300,7 @@ external_links:
 # -----------------------------------------------------------------------------
 
 imagemagick:
-  enabled: true # enables responsive images for your site (recomended, see https://github.com/alshedivat/al-folio/issues/537)
+  enabled: false # enable only when ImageMagick is installed in the build environment
   widths:
     - 480
     - 800
