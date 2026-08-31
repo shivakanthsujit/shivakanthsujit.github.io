@@ -1,5 +1,5 @@
 metadata:
-  last_updated: '2026-08-28'
+  last_updated: '2026-08-31'
 papers:
   oXpK8V8AAAAJ:2osOgNQ5qMEC:
     citations: 45
@@ -14,7 +14,7 @@ papers:
     title: Evaluation of sample efficiency in offline reinforcement learning
     year: '2023'
   oXpK8V8AAAAJ:UeHWp8X0CEIC:
-    citations: 2
+    citations: 3
     title: Bridging the Gap Between Offline and Online Reinforcement Learning Evaluation Methodologies
     year: '2023'
   oXpK8V8AAAAJ:W7OEmFMy1HYC:
@@ -22,7 +22,7 @@ papers:
     title: Reinforcement Learning for Sequence Design Leveraging Protein Language Models
     year: '2024'
   oXpK8V8AAAAJ:WF5omc3nYNoC:
-    citations: 8
+    citations: 9
     title: A multi-user multi-robot multi-goal multi-device human-robot interaction manipulation benchmark
     year: '2025'
   oXpK8V8AAAAJ:Y0pCki6q_DkC:
